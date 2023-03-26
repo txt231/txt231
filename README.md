@@ -5,10 +5,7 @@ Theres not that much here...<br>
 
 # Contact info stuff
 
-**Discord (probably most reliable):** txt#3319<br>
-**Keybase:** txt231<br>
-**Steam:** txt231<br>
-
+**Discord:** txt#3319<br>
 
 
 <!--
