@@ -1,11 +1,15 @@
-# Yo
+# Hi
 
-Theres not that much here...<br>
+I usually like to look into software, and might do some programming here and there.
+
+<br>
+
+In the end there not that much here...<br>
 
 
 # Contact info stuff
 
-**Discord:** txt#3319<br>
+**Discord:** `txt__`<br>
 
 
 <!--
